@@ -1,5 +1,6 @@
 # Find the GCD of two numbers
-
+Name:Sriram
+Ref No:22008452
 ## AIM:
 To write a program to find the GCD of two numbers using function.
 
@@ -30,7 +31,7 @@ def gcd():
 ```
 
 ## Output:
-![model](Python4.png)
+![model](1.png)
 
 
 ## Result:
